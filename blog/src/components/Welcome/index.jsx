@@ -6,7 +6,7 @@ const Welcome = () => {
   return (
     <div>
       <Banner 
-      backgroundImage="url(assets/img/bg-gift.jpg)"
+      backgroundImage="url(https://data.whicdn.com/images/337152228/original.jpg)"
       title="Latest Blog Posts"
       subtitle="Read and get updated on the latest posts"
       />
@@ -27,7 +27,7 @@ const Welcome = () => {
           <a className="btn btn-white" href="/">Older
             <i className="ti-arrow-right fs-9 ml-4" />
           </a>
-</nav>
+          </nav>
         </div>
       </div>
     </main>
