@@ -1,5 +1,5 @@
 import React from 'react';
-import { validateAll } from 'indicative';
+
 import Axios from 'axios';
 import config from '../config/index';
 

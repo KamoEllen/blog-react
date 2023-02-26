@@ -21,7 +21,7 @@ const Navbar = () => {
                 <Link classname="nav-link" to="/articles/create">Write New Article</Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">Hey Garry!
+                <a className="nav-link" href="/">Hey Garry!
                   <i className="fa fa-caret-down" />
                 </a>
                 <div className="nav-submenu">

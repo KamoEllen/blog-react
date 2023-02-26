@@ -22,9 +22,9 @@ const Welcome = () => {
           <hr/>
           <Article/>
           <nav className="flexbox mt-50 mb-50">
-          <a className="btn btn-white disabled">
+          <a className="btn btn-white disabled" href="/">
             <i className="ti-arrow-left fs-9 mr-4" /> Newer</a>
-          <a className="btn btn-white" href="#">Older
+          <a className="btn btn-white" href="/">Older
             <i className="ti-arrow-right fs-9 ml-4" />
           </a>
 </nav>
