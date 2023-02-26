@@ -1,0 +1,33 @@
+.banner-container {
+  background-color: #f2f2f2;
+  padding: 50px;
+  text-align: center;
+}
+
+.banner-title {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.banner-subtitle {
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+
+.banner-cta {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.5rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.banner-cta:hover {
+  background-color: #3e8e41;
+}
